@@ -10,7 +10,7 @@ def hello():
         <head>
             <title>Flask with uni.css</title>
             <!-- 使用完整的静态资源 URL -->
-            <link rel="stylesheet" href="http://localhost:92/uni.css">
+            <link rel="stylesheet" href="http://localhost:92/css/uni.css">
         </head>
         <body>
             <p>Hello from the Flask app!</p>
